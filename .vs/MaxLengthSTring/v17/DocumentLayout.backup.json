@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\root\\source\\repos\\MaxLengthSTring\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1146A339-FA2D-454F-83DA-81D5EF8775D3}|MaxLengthSTring\\leetcodeC#.csproj|c:\\users\\root\\source\\repos\\maxlengthstring\\maxlengthstring\\arrays\\4 median of two sorted arrays\\_1_simplenotlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1146A339-FA2D-454F-83DA-81D5EF8775D3}|MaxLengthSTring\\leetcodeC#.csproj|solutionrelative:maxlengthstring\\arrays\\4 median of two sorted arrays\\_1_simplenotlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1146A339-FA2D-454F-83DA-81D5EF8775D3}|MaxLengthSTring\\leetcodeC#.csproj|c:\\users\\root\\source\\repos\\maxlengthstring\\maxlengthstring\\numbersconvertions\\7. reverse integer\\_some_good.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1146A339-FA2D-454F-83DA-81D5EF8775D3}|MaxLengthSTring\\leetcodeC#.csproj|solutionrelative:maxlengthstring\\numbersconvertions\\7. reverse integer\\_some_good.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1146A339-FA2D-454F-83DA-81D5EF8775D3}|MaxLengthSTring\\leetcodeC#.csproj|c:\\users\\root\\source\\repos\\maxlengthstring\\maxlengthstring\\numbersconvertions\\7. reverse integer\\briliantsoltion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1146A339-FA2D-454F-83DA-81D5EF8775D3}|MaxLengthSTring\\leetcodeC#.csproj|solutionrelative:maxlengthstring\\numbersconvertions\\7. reverse integer\\briliantsoltion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1146A339-FA2D-454F-83DA-81D5EF8775D3}|MaxLengthSTring\\leetcodeC#.csproj|c:\\users\\root\\source\\repos\\maxlengthstring\\maxlengthstring\\stringproblems\\3. longest substring without repeating characters\\_2_extended_way_with_dictinary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1146A339-FA2D-454F-83DA-81D5EF8775D3}|MaxLengthSTring\\leetcodeC#.csproj|solutionrelative:maxlengthstring\\stringproblems\\3. longest substring without repeating characters\\_2_extended_way_with_dictinary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1146A339-FA2D-454F-83DA-81D5EF8775D3}|MaxLengthSTring\\leetcodeC#.csproj|c:\\users\\root\\source\\repos\\maxlengthstring\\maxlengthstring\\numbersconvertions\\7. reverse integer\\_2_just_integers_no_strings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1146A339-FA2D-454F-83DA-81D5EF8775D3}|MaxLengthSTring\\leetcodeC#.csproj|solutionrelative:maxlengthstring\\numbersconvertions\\7. reverse integer\\_2_just_integers_no_strings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1146A339-FA2D-454F-83DA-81D5EF8775D3}|MaxLengthSTring\\leetcodeC#.csproj|c:\\users\\root\\source\\repos\\maxlengthstring\\maxlengthstring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1146A339-FA2D-454F-83DA-81D5EF8775D3}|MaxLengthSTring\\leetcodeC#.csproj|solutionrelative:maxlengthstring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1146A339-FA2D-454F-83DA-81D5EF8775D3}|MaxLengthSTring\\leetcodeC#.csproj|c:\\users\\root\\source\\repos\\maxlengthstring\\maxlengthstring\\numbersconvertions\\7. reverse integer\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1146A339-FA2D-454F-83DA-81D5EF8775D3}|MaxLengthSTring\\leetcodeC#.csproj|solutionrelative:maxlengthstring\\numbersconvertions\\7. reverse integer\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_1_SimpleNotLog.cs",
+              "DocumentMoniker": "C:\\Users\\root\\source\\repos\\MaxLengthSTring\\MaxLengthSTring\\Arrays\\4 Median of Two Sorted Arrays\\_1_SimpleNotLog.cs",
+              "RelativeDocumentMoniker": "MaxLengthSTring\\Arrays\\4 Median of Two Sorted Arrays\\_1_SimpleNotLog.cs",
+              "ToolTip": "C:\\Users\\root\\source\\repos\\MaxLengthSTring\\MaxLengthSTring\\Arrays\\4 Median of Two Sorted Arrays\\_1_SimpleNotLog.cs",
+              "RelativeToolTip": "MaxLengthSTring\\Arrays\\4 Median of Two Sorted Arrays\\_1_SimpleNotLog.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAADwvz8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T15:02:17.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BriliantSoltion.cs",
+              "DocumentMoniker": "C:\\Users\\root\\source\\repos\\MaxLengthSTring\\MaxLengthSTring\\NumbersConvertions\\7. Reverse Integer\\BriliantSoltion.cs",
+              "RelativeDocumentMoniker": "MaxLengthSTring\\NumbersConvertions\\7. Reverse Integer\\BriliantSoltion.cs",
+              "ToolTip": "C:\\Users\\root\\source\\repos\\MaxLengthSTring\\MaxLengthSTring\\NumbersConvertions\\7. Reverse Integer\\BriliantSoltion.cs",
+              "RelativeToolTip": "MaxLengthSTring\\NumbersConvertions\\7. Reverse Integer\\BriliantSoltion.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T14:44:29.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_2_extended_way_with_dictinary.cs",
+              "DocumentMoniker": "C:\\Users\\root\\source\\repos\\MaxLengthSTring\\MaxLengthSTring\\StringProblems\\3. Longest Substring Without Repeating Characters\\_2_extended_way_with_dictinary.cs",
+              "RelativeDocumentMoniker": "MaxLengthSTring\\StringProblems\\3. Longest Substring Without Repeating Characters\\_2_extended_way_with_dictinary.cs",
+              "ToolTip": "C:\\Users\\root\\source\\repos\\MaxLengthSTring\\MaxLengthSTring\\StringProblems\\3. Longest Substring Without Repeating Characters\\_2_extended_way_with_dictinary.cs",
+              "RelativeToolTip": "MaxLengthSTring\\StringProblems\\3. Longest Substring Without Repeating Characters\\_2_extended_way_with_dictinary.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T14:44:08.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_some_good.cs",
+              "DocumentMoniker": "C:\\Users\\root\\source\\repos\\MaxLengthSTring\\MaxLengthSTring\\NumbersConvertions\\7. Reverse Integer\\_some_good.cs",
+              "RelativeDocumentMoniker": "MaxLengthSTring\\NumbersConvertions\\7. Reverse Integer\\_some_good.cs",
+              "ToolTip": "C:\\Users\\root\\source\\repos\\MaxLengthSTring\\MaxLengthSTring\\NumbersConvertions\\7. Reverse Integer\\_some_good.cs",
+              "RelativeToolTip": "MaxLengthSTring\\NumbersConvertions\\7. Reverse Integer\\_some_good.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T13:39:52.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\root\\source\\repos\\MaxLengthSTring\\MaxLengthSTring\\Program.cs",
+              "RelativeDocumentMoniker": "MaxLengthSTring\\Program.cs",
+              "ToolTip": "C:\\Users\\root\\source\\repos\\MaxLengthSTring\\MaxLengthSTring\\Program.cs",
+              "RelativeToolTip": "MaxLengthSTring\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T13:23:34.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_2_Just_Integers_no_strings.cs",
+              "DocumentMoniker": "C:\\Users\\root\\source\\repos\\MaxLengthSTring\\MaxLengthSTring\\NumbersConvertions\\7. Reverse Integer\\_2_Just_Integers_no_strings.cs",
+              "RelativeDocumentMoniker": "MaxLengthSTring\\NumbersConvertions\\7. Reverse Integer\\_2_Just_Integers_no_strings.cs",
+              "ToolTip": "C:\\Users\\root\\source\\repos\\MaxLengthSTring\\MaxLengthSTring\\NumbersConvertions\\7. Reverse Integer\\_2_Just_Integers_no_strings.cs",
+              "RelativeToolTip": "MaxLengthSTring\\NumbersConvertions\\7. Reverse Integer\\_2_Just_Integers_no_strings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T12:29:15.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Test.cs",
+              "DocumentMoniker": "C:\\Users\\root\\source\\repos\\MaxLengthSTring\\MaxLengthSTring\\NumbersConvertions\\7. Reverse Integer\\Test.cs",
+              "RelativeDocumentMoniker": "MaxLengthSTring\\NumbersConvertions\\7. Reverse Integer\\Test.cs",
+              "ToolTip": "C:\\Users\\root\\source\\repos\\MaxLengthSTring\\MaxLengthSTring\\NumbersConvertions\\7. Reverse Integer\\Test.cs",
+              "RelativeToolTip": "MaxLengthSTring\\NumbersConvertions\\7. Reverse Integer\\Test.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAMwFgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T12:24:55.799Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
